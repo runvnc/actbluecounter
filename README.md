@@ -16,4 +16,6 @@ Written for Node.js 13 (although its not hard to adapt to another recent version
 
 Needs Postgres.  See pginit.sql
 
+For help with this, email runvnc@gmail.com
+
 
