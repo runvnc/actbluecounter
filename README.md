@@ -20,4 +20,4 @@ Note that this has not been tested against the actual ActBlue Webhook since I do
 
 For help with setting this up, email runvnc@gmail.com.  I can also transfer a snapshot directly to another Digital Ocean user so no setup is necessary (if its for the Yang campaign).
 
-
+It will also be pretty easy to extend this to have a websocket feed displaying donor names and amounts as they come in.
