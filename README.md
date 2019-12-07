@@ -12,7 +12,7 @@ It also has a handy endpoint (no auth) to get the total donations so far:
 http://ipaddr:4000/total
 
 
-Written for Node.js 13.
+Written for Node.js 13 (although its not hard to adapt to another recent version).
 
 Needs Postgres.  See pginit.sql
 
