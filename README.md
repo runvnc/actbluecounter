@@ -16,6 +16,6 @@ Written for Node.js 13 (although its not hard to adapt to another recent version
 
 Needs Postgres.  See pginit.sql
 
-For help with this, email runvnc@gmail.com
+For help with setting this up, email runvnc@gmail.com.  I can also transfer a snapshot directly to another Digital Ocean user so no setup is necessary (if its for the Yang campaign).
 
 
