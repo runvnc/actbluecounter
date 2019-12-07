@@ -1,0 +1,4 @@
+#!/bin/bash
+curl -u acthook:yanggang2020 -d \
+	'{"donor": {"firstname":"john", "lastname":"smith", "city":"Fresno","State":"CA","zip":"12345"},"contribution": {"uniqueIdentifier": "sdfsdjfsdalkdsfsdfwerwedfd2323f", "createdAt":"2017-10-03T13:48:26-04:00"},"lineitems": [{"amount": 55.00}]}' -H "Content-Type: application/json" -X POST http://localhost:3000/donation
+
