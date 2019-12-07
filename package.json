@@ -1,0 +1,24 @@
+{
+  "name": "actbluecounter",
+  "version": "1.0.0",
+  "description": "ActBlue contributions counter/ticker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runvnc/actbluecounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runvnc/actbluecounter/issues"
+  },
+  "homepage": "https://github.com/runvnc/actbluecounter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "p-queue": "^6.2.1",
+    "pg-promise": "^10.3.1"
+  }
+}
